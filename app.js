@@ -13,22 +13,22 @@ const questionsManager = [
   {
     type: "input",
     name: "name",
-    message: "Enter your name."
+    message: "Enter your Manager's name."
   },
   {
     type: "input",
     name: "id",
-    message: "Enter your ID number."
+    message: "Enter your Manager's ID number."
   },
   {
     type: "input",
     name: "email",
-    message: "Enter your email."
+    message: "Enter your Manager's email."
   },
   {
     type: "input",
     name: "officenumber",
-    message: "Enter you Office Number."
+    message: "Enter you Manager's Office Number."
   }
 ];
 
