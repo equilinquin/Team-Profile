@@ -104,7 +104,7 @@ function promptEmployee() {
       });
     } else if (emp.employee === "Intern") {
       promptIntern().then(res => {
-        const int = new Intern(res.name, res.id, res.email, res.github);
+        const int = new Intern(res.name, res.id, res.email, res.school);
         intArr.push(int);
         promptEmployee();
       });
