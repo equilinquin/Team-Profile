@@ -48,7 +48,9 @@ This project generates a web page for a team of people, displaying very basic in
 
 ## GIF
 
-![Sample GIF](./ezgif.com-video-to-gif (1).gif)
+![Sample GIF](./images/ezgif.com-video-to-gif(1).gif)
 
 ## Image of generated HTML
+
+![Sample Image](./images/team-profile.png)
 
